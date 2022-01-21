@@ -35,4 +35,4 @@ Dnyandeo means `“God of Knowledge”`.
 
 ### Connect with me on : 
 
-<img src="https://img.icons8.com/color/96/000000/gmail-new.png" width = 25/>, <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width = 25/>, <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width = 25/>, <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" width = 25/>, <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width = 25/>
+<img src="https://img.icons8.com/color/96/000000/gmail-new.png" width = 25 href = https://mail.google.com/>, <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width = 25/>, <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width = 25/>, <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" width = 25/>, <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width = 25/>
