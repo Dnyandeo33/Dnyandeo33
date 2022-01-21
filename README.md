@@ -9,7 +9,7 @@ Hi… I’m *Dnyandeo Waghunde* from <img src="https://img.icons8.com/color/48/0
 
     Self-learner and disciplined student of Youtube, coursera and Udemy.
 
-    With HYF’s golden opportunity, stepping my first foot towards information technology by learning full course of front end web development.
+    With HYF’s golden opportunity, stepping my first foot towards information technology by learning full course front end web development.
 
     I am a hard worker, dedicated person who tries to do things perfectly till end. 
 
@@ -26,7 +26,7 @@ Hi… I’m *Dnyandeo Waghunde* from <img src="https://img.icons8.com/color/48/0
 *Till now as a journalist, I had knowledge of things going around but now I want to seek knowledge about technology.*  
 
 ## Self-learned Programming languages : 
-<img alt = "HTML5" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-color-tal-revivo.png" width = 25/> <img alt = "CSS3" src="https://img.icons8.com/color/96/000000/css3.png" width = 29/>
+<img alt = "HTML5" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-color-tal-revivo.png" width = 25/>, <img alt = "CSS3" src="https://img.icons8.com/color/96/000000/css3.png" width = 29/>
 
 ## Tools : 
 
@@ -34,4 +34,10 @@ Hi… I’m *Dnyandeo Waghunde* from <img src="https://img.icons8.com/color/48/0
 
 
 ## Connect with me on : 
-<a href="https://www.linkedin.com/in/dnyandeo-waghunde-27152244/"><img alt = "linkedin" src="https://img.icons8.com/fluency/48/000000/linkedin.png" width = 25/></a> <a herf="https://twitter.com/Dnyandeowaghund"><img alt = "twitter" src="https://img.icons8.com/color/48/000000/twitter--v1.png" width = 25/></a> <a herf= "https://www.facebook.com/dnyandeo.waghunde"><img alt = "facebook" src="https://img.icons8.com/fluency/48/000000/facebook-new.png" width = 25/></a> <a herf="https://www.instagram.com/dnyandeowaghunde/?hl=en"><img alt = "instagram" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width = 25/></a>
+<a href="https://www.linkedin.com/in/dnyandeo-waghunde-27152244/"><img alt = "linkedin" src="https://img.icons8.com/fluency/48/000000/linkedin.png" width = 25/></a> 
+
+<a href="https://twitter.com/Dnyandeowaghund"><img alt = "twitter" src="https://img.icons8.com/color/48/000000/twitter--v1.png" width = 25></a> 
+
+<a href="https://www.facebook.com/dnyandeo.waghunde"><img alt = "facebook" src="https://img.icons8.com/fluency/48/000000/facebook-new.png" width = 25></a> 
+
+<a href="https://www.instagram.com/dnyandeowaghunde/?hl=en"><img alt = "instagram" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width = 25></a>
