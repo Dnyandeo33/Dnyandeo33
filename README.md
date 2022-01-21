@@ -34,10 +34,4 @@ Hi… I’m *Dnyandeo Waghunde* from <img src="https://img.icons8.com/color/48/0
 
 
 ## Connect with me on : 
-<a href="https://www.linkedin.com/in/dnyandeo-waghunde-27152244/"><img alt = "linkedin" src="https://img.icons8.com/fluency/48/000000/linkedin.png" width = 25/></a> 
-
-<a href="https://twitter.com/Dnyandeowaghund"><img alt = "twitter" src="https://img.icons8.com/color/48/000000/twitter--v1.png" width = 25></a> 
-
-<a href="https://www.facebook.com/dnyandeo.waghunde"><img alt = "facebook" src="https://img.icons8.com/fluency/48/000000/facebook-new.png" width = 25></a> 
-
-<a href="https://www.instagram.com/dnyandeowaghunde/?hl=en"><img alt = "instagram" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width = 25></a>
+<a href="https://www.linkedin.com/in/dnyandeo-waghunde-27152244/"><img alt = "linkedin" src="https://img.icons8.com/fluency/48/000000/linkedin.png" width = 25/></a> <a href="https://twitter.com/Dnyandeowaghund"><img alt = "twitter" src="https://img.icons8.com/color/48/000000/twitter--v1.png" width = 25></a> <a href="https://www.facebook.com/dnyandeo.waghunde"><img alt = "facebook" src="https://img.icons8.com/fluency/48/000000/facebook-new.png" width = 25></a> <a href="https://www.instagram.com/dnyandeowaghunde/?hl=en"><img alt = "instagram" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width = 25></a>
