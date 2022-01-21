@@ -30,7 +30,7 @@ Hi… I’m *Dnyandeo Waghunde* from <img src="https://img.icons8.com/color/48/0
 
 ## Tools : 
 
-<img alt = "Vs code" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width = 25/> <img alt = "github" src="https://img.icons8.com/ios-glyphs/90/000000/github.png" width = 27/> <img alt = "adobe photoshop" src="https://img.icons8.com/color/96/000000/adobe-photoshop--v1.png" width = 26/> <img alt = "adobe premier pro" src="https://img.icons8.com/fluency/48/000000/adobe-premiere-pro.png" width = 26/> <img alt = "finel cut pro" src="https://img.icons8.com/plasticine/100/000000/final-cut-pro-x.png" width = 28/>
+<img alt = "Vs code" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width = 25/> <img alt = "adobe photoshop" src="https://img.icons8.com/color/96/000000/adobe-photoshop--v1.png" width = 26/> <img alt = "adobe premier pro" src="https://img.icons8.com/fluency/48/000000/adobe-premiere-pro.png" width = 26/> <img alt = "finel cut pro" src="https://img.icons8.com/plasticine/100/000000/final-cut-pro-x.png" width = 28/>
 
 
 ## Connect with me on : 
