@@ -9,7 +9,7 @@ Hi… I’m *Dnyandeo Waghunde* from <img src="https://img.icons8.com/color/48/0
 
     Self-learner and disciplined student of Youtube, coursera and Udemy.
 
-    With HYF’s golden opportunity, stepping my first foot towards information technology by learning full course front end web development.
+    With HYF’s golden opportunity, stepping my first foot towards information technology by learning full course of front end web development.
 
     I am a hard worker, dedicated person who tries to do things perfectly till end. 
 
