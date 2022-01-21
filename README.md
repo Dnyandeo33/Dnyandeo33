@@ -15,13 +15,13 @@ Hi… I’m *Dnyandeo Waghunde* from <img src="https://img.icons8.com/color/48/0
 
 ## 2022 Goal: 
 
-`Opening the doors of Belgium IT market by getting an *internship/job* as a front end developer`. 
+`Opening the doors of Belgium IT market by getting an *internship/job* as a front end developer.` 
 
 ## Fact about me : 
 
-Dnyandeo means `“God of Knowledge”`.
+`Dnyandeo means “God of Knowledge”.`
  
-``` Till now as a journalist, I had knowledge of things going around but now I want to seek knowledge about technology.```  
+*Till now as a journalist, I had knowledge of things going around but now I want to seek knowledge about technology.*  
 
 ## Self-learned Programming languages : 
 <img alt = "HTML5" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-color-tal-revivo.png" width = 25/>, <img alt = "CSS3" src="https://img.icons8.com/color/96/000000/css3.png" width = 29/>
