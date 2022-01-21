@@ -15,7 +15,7 @@ Hi… I’m *Dnyandeo Waghunde* from <img src="https://img.icons8.com/color/48/0
 
 ## 2022 Goal: 
 
-`Opening the doors of Belgium IT market by getting an *internship/job* as a front end developer.` 
+`Opening the doors of Belgium IT market by getting an internship/job as a front end developer.` 
 
 ## Fact about me : 
 
