@@ -1,5 +1,5 @@
 ## About me
-Hi… I’m *Dnyandeo Waghunde* from <img src="https://img.icons8.com/color/48/000000/india-circular.png" width = 18/> India. Currently, living in <img src="https://img.icons8.com/color/48/000000/belgium-circular.png" width = 18/> Belgium.
+Hi… I’m **DNYANDEO WAGHUNDE** from <img src="https://img.icons8.com/color/48/000000/india-circular.png" width = 18/> India. Currently, living in <img src="https://img.icons8.com/color/48/000000/belgium-circular.png" width = 18/> Belgium.
 
    <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-news-news-kiranshastry-lineal-color-kiranshastry-5.png" width = 20/> `Journalist` by profession. 
    
